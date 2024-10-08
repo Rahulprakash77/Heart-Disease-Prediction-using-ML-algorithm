@@ -1,4 +1,2 @@
 # Heart-Disease-Prediction-using-ML-algorithm
-i have written code for heart disease prediction you can find phytho file and data in repository 
-its really exciting to work in domain of biomedical signal processing with
-machine learning tool 
+I have developed a Python-based machine learning model for heart disease prediction. You can find the Python file and dataset in my GitHub repository. It has been an exciting experience working in the domain of biomedical signal processing, leveraging machine learning tools to analyze and interpret complex medical data. This project involves applying advanced algorithms to predict heart disease risk, showcasing the potential of AI in healthcare. I’m thrilled to explore this intersection of biomedical engineering and machine learning, and I look forward to contributing further in this innovative field. 
